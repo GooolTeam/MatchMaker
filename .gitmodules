@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/GooolTeam/MatchMaker-Server
+[submodule "app"]
+	path = app
+	url = https://github.com/GooolTeam/MatchMaker-App
